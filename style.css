@@ -20,7 +20,7 @@ h1 {
 }
 section {
   display: flex;
-  margin-bottom: 150px;
+  margin-bottom: 200px;
 }
 .widthOfTwoDivSection {
   width: 50%;
@@ -85,4 +85,27 @@ footer {
 }
 .fot-2022 {
   color: green;
+}
+.heading-align {
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
+.self-idea {
+  display: flex;
+  background-image: linear-gradient(rgb(238, 118, 118), white);
+  border-radius: 20px;
+  margin-left: 110px;
+  margin-right: 110px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+input[type="text"] {
+  font-size: 40px;
+}
+input[type="password"] {
+  font-size: 40px;
+}
+.input {
+  padding-left: 80px;
+  padding-right: 50px;
 }
