@@ -20,7 +20,7 @@ h1 {
 }
 section {
   display: flex;
-  margin-bottom: 200px;
+  margin-bottom: 100px;
 }
 .widthOfTwoDivSection {
   width: 50%;
