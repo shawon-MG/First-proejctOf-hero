@@ -20,8 +20,6 @@ h1 {
 }
 section {
   display: flex;
-  margin-top: 50px;
-  margin-bottom: 100px;
 }
 .widthOfTwoDivSection {
   width: 50%;
@@ -46,11 +44,15 @@ h2 {
 #goals {
   background-color: cornflowerblue;
 }
+#margin-set {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: 110px;
+  margin-right: 110px;
+}
 .widthOfThreeDivSection {
   width: 33.33%;
   border-radius: 20px;
-  margin-left: 110px;
-  margin-right: 110px;
   padding: 50px 30px 50px 30px;
 }
 .widthOfThreeDivSection img {
