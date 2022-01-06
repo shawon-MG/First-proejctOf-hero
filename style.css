@@ -20,6 +20,7 @@ h1 {
 }
 section {
   display: flex;
+  margin-bottom: 200px;
 }
 .widthOfTwoDivSection {
   width: 50%;
@@ -36,13 +37,13 @@ h2 {
   color: yellowgreen;
 }
 #mission {
-  background-color: aqua;
+  background-color: lightcyan;
 }
 #vission {
-  background-color: bisque;
+  background-color: lightgoldenrodyellow;
 }
 #goals {
-  background-color: cornflowerblue;
+  background-color: lightpink;
 }
 #margin-set {
   margin-top: 50px;
@@ -57,4 +58,31 @@ h2 {
 }
 .widthOfThreeDivSection img {
   width: 35%;
+}
+h3 {
+  font-size: 50px;
+}
+.section-three-four {
+  width: 50%;
+}
+.section-three-four img {
+  width: 70%;
+  padding-left: 110px;
+}
+#special-case {
+  padding-left: 110px;
+  padding-top: 50px;
+}
+h4 {
+  font-size: 35px;
+}
+footer {
+  /* font-family: "Lobster", cursive; */
+  color: white;
+  background-color: rgb(8, 1, 1);
+  text-align: center;
+  padding: 30px 30px;
+}
+.fot-2022 {
+  color: green;
 }
