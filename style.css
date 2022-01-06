@@ -1,0 +1,58 @@
+body {
+  font-family: "Roboto Slab", serif;
+}
+h1 {
+  font-size: 80px;
+  border-left: 5px solid;
+  border-image: linear-gradient(red, blue);
+  border-image-slice: 1;
+  padding-left: 17px;
+}
+.dif-color {
+  color: orangered;
+}
+.buttons {
+  text-decoration: none;
+  color: white;
+  background-color: blueviolet;
+  border-radius: 7px;
+  padding: 10px 20px 10px 20px;
+}
+section {
+  display: flex;
+  margin-bottom: 100px;
+}
+.widthOfTwoDivSection {
+  width: 50%;
+  padding-left: 110px;
+  padding-top: 100px;
+}
+.widthOfTwoDivSection img {
+  width: 80%;
+}
+h2 {
+  font-size: 60px;
+  text-align: center;
+}
+.dif-color-2nd-section {
+  color: yellowgreen;
+}
+#mission {
+  background-color: aqua;
+}
+#vission {
+  background-color: bisque;
+}
+#goals {
+  background-color: cornflowerblue;
+}
+.widthOfThreeDivSection {
+  width: 33.33%;
+  border-radius: 20px;
+  margin-left: 110px;
+  margin-right: 110px;
+  padding: 50px 30px 50px 30px;
+}
+.widthOfThreeDivSection img {
+  width: 35%;
+}
