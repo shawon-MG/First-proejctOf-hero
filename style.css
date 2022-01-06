@@ -20,7 +20,7 @@ h1 {
 }
 section {
   display: flex;
-  margin-bottom: 200px;
+  margin-bottom: 150px;
 }
 .widthOfTwoDivSection {
   width: 50%;
@@ -77,7 +77,7 @@ h4 {
   font-size: 35px;
 }
 footer {
-  /* font-family: "Lobster", cursive; */
+  font-family: "Lobster", cursive;
   color: white;
   background-color: rgb(8, 1, 1);
   text-align: center;
